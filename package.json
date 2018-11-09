@@ -1,0 +1,12 @@
+{
+  "name": "sol-flat",
+  "version": "0.1",
+  "description": "Solidity flattener",
+  "main": "index.js",
+  "repository": "https://github.com/dirmich/sol-flat.git",
+  "author": "David, Shin",
+  "license": "MIT",
+  "dependencies": {
+    "argparse": "^1.0.10"
+  }
+}
